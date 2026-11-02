@@ -1,0 +1,47 @@
+[
+  {
+    "student": {
+      "id": "S1",
+      "name": "John"
+    },
+    "question": {
+      "id": "Q1",
+      "text": "What is the capital of France?",
+      "category": "Geography",
+      "answer": "Paris"
+    },
+    "correct": true,
+    "score": 1,
+    "date": "2025-01-01"
+  },
+  {
+    "student": {
+      "id": "S1",
+      "name": "John"
+    },
+    "question": {
+      "id": "Q3",
+      "text": "What is the largest planet?",
+      "category": "Science",
+      "answer": "Jupiter"
+    },
+    "correct": true,
+    "score": 1,
+    "date": "2025-01-03"
+  },
+  {
+    "student": {
+      "id": "S2",
+      "name": "Sarah"
+    },
+    "question": {
+      "id": "Q2",
+      "text": "2 + 2 \u003d ?",
+      "category": "Math",
+      "answer": "4"
+    },
+    "correct": false,
+    "score": 0,
+    "date": "2025-01-02"
+  }
+]
